@@ -1,6 +1,3 @@
-### ✅ Final `README.md` Code (Copy–Paste Ready)
-
-```markdown
 <!-- Project Banner -->
 <p align="center">  
   <img src="https://github.com/Jexa07/Jexa07/assets/129108624/358b36c4-b152-45fa-880c-8dfed937b35d" width="80%" alt="Melanoma Detection Using CNN Banner" /> 
@@ -43,22 +40,6 @@ This project presents a complete deep learning pipeline for detecting and segmen
 
 ---
 
-## 📁 Repo Structure
-
-```
-
-📦 Melanoma-YOLOv11m-seg/
-┣ 📂 datasets/             → Input tiles (256x256)
-┣ 📂 models/               → YOLOv11m-seg weights
-┣ 📜 detect.ipynb          → Inference notebook
-┣ 📜 train.ipynb           → Training pipeline
-┣ 📜 utils.py              → Preprocessing & utilities
-┗ 📄 README.md             → You're here!
-
-```
-
----
-
 ## 📣 Contribution
 
 If you'd like to contribute improvements, feature ideas, or dataset refinements — feel free to open an issue or submit a pull request 🤝
@@ -72,4 +53,5 @@ If you'd like to contribute improvements, feature ideas, or dataset refinements 
 ---
 
 💖 _Built with curiosity, caffeine, and a passion for precision._
-```
+
+
