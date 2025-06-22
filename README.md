@@ -1,6 +1,6 @@
 <!-- Project Banner -->
-<p align="center">  
-  <img src="https://github.com/Jexa07/Jexa07/assets/129108624/358b36c4-b152-45fa-880c-8dfed937b35d" width="80%" alt="Melanoma Detection Using CNN Banner" /> 
+<p align="center">
+  <img src="https://i.postimg.cc/RZNrCkhk/Untitled-design-4-1.png" width="80%" alt="Melanoma Detection Using CNN Banner" />
 </p>
 
 <h1 align="center">🧬 Melanoma Cell Detection & Segmentation using YOLOv11m-seg</h1>
