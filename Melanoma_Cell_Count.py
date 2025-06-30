@@ -35,7 +35,7 @@ else:
 
 from roboflow import Roboflow
 
-rf = Roboflow(api_key="IT111k9ZCIpOy2nsvyeI")
+rf = Roboflow(api_key="Your API Key")
 project = rf.workspace("jexa").project("melanoma-by-arpita")
 version = project.version(3)
 
